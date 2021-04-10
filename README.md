@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kishore-S-2410
+- 👋 Hi, I’m kishore
 - 🌱 I’m currently learning Artificial intelligence and machine learning
 - 📫 How to reach me kishores2410@gmail.com
 
